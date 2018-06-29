@@ -35,7 +35,7 @@ namespace equivalent_operations
             Console.Write("Enter third number: ");
             number3 = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("Result of operation between ({0}, {1}, {2}) \n Result of operation between (a+b).c is {3} \n Result of operation between a.b + a.c is {4}", number1, number2, number3, ((number1 + number2) * number3), (number1 * number3 + number2* number3));
+            Console.WriteLine("Result of operation between ({0}, {1}, {2})\nResult of operation between (a+b).c is {3}\nResult of operation between a.b + a.c is {4}", number1, number2, number3, ((number1 + number2) * number3), (number1 * number3 + number2* number3));
             
         }
     }
