@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculate-remainder-of-division", "calculate-remainder-of-division\calculate-remainder-of-division.csproj", "{C0A16005-45A8-40F9-8493-72A99CAA5D14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0A16005-45A8-40F9-8493-72A99CAA5D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A16005-45A8-40F9-8493-72A99CAA5D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A16005-45A8-40F9-8493-72A99CAA5D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A16005-45A8-40F9-8493-72A99CAA5D14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80D62E7B-6B4E-445F-A5AB-C39061F5476C}
+	EndGlobalSection
+EndGlobal

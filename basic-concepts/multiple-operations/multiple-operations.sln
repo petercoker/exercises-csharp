@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiple-operations", "multiple-operations\multiple-operations.csproj", "{C9FCDEEF-91F3-4E2A-BD45-B2E00D03D834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9FCDEEF-91F3-4E2A-BD45-B2E00D03D834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9FCDEEF-91F3-4E2A-BD45-B2E00D03D834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9FCDEEF-91F3-4E2A-BD45-B2E00D03D834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9FCDEEF-91F3-4E2A-BD45-B2E00D03D834}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5247841-252C-4158-883D-07A2076F06D5}
+	EndGlobalSection
+EndGlobal
