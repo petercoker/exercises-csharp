@@ -18,7 +18,18 @@ namespace draw_a_rectangle_1
             //777
             //777
 
+            string digit = Console.ReadLine();
 
+            for (int i = 1; i <= 5; i++)
+            {
+                Console.WriteLine("{0}{0}{0}", digit);
+            }
+            
+            //Console.WriteLine("{0}{0}{0}", digit);
+            //Console.WriteLine("{0} {0}", digit);
+            //Console.WriteLine("{0} {0}", digit);
+            //Console.WriteLine("{0} {0}", digit);
+            //Console.WriteLine("{0}{0}{0}", digit);
         }
     }
 }
