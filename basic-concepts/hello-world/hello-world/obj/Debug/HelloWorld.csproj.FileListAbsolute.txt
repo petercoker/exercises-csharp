@@ -1,7 +1,0 @@
-C:\Users\sonol\Downloads\_pcloud\_repositories\exercises-csharp\basic-concepts\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
-C:\Users\sonol\Downloads\_pcloud\_repositories\exercises-csharp\basic-concepts\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
-C:\Users\sonol\Downloads\_pcloud\_repositories\exercises-csharp\basic-concepts\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
-C:\Users\sonol\Downloads\_pcloud\_repositories\exercises-csharp\basic-concepts\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
-C:\Users\sonol\Downloads\_pcloud\_repositories\exercises-csharp\basic-concepts\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
-C:\Users\sonol\Downloads\_pcloud\_repositories\exercises-csharp\basic-concepts\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
-C:\Users\sonol\Downloads\_pcloud\_repositories\exercises-csharp\basic-concepts\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

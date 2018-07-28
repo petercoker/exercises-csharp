@@ -1,7 +1,0 @@
-C:\Users\sonol\Downloads\_pcloud\_repositories\exercises-csharp\basic-concepts\reading-user-input\reading-user-input\bin\Debug\reading-user-input.exe.config
-C:\Users\sonol\Downloads\_pcloud\_repositories\exercises-csharp\basic-concepts\reading-user-input\reading-user-input\bin\Debug\reading-user-input.exe
-C:\Users\sonol\Downloads\_pcloud\_repositories\exercises-csharp\basic-concepts\reading-user-input\reading-user-input\bin\Debug\reading-user-input.pdb
-C:\Users\sonol\Downloads\_pcloud\_repositories\exercises-csharp\basic-concepts\reading-user-input\reading-user-input\obj\Debug\reading-user-input.csprojResolveAssemblyReference.cache
-C:\Users\sonol\Downloads\_pcloud\_repositories\exercises-csharp\basic-concepts\reading-user-input\reading-user-input\obj\Debug\reading-user-input.csproj.CoreCompileInputs.cache
-C:\Users\sonol\Downloads\_pcloud\_repositories\exercises-csharp\basic-concepts\reading-user-input\reading-user-input\obj\Debug\reading-user-input.exe
-C:\Users\sonol\Downloads\_pcloud\_repositories\exercises-csharp\basic-concepts\reading-user-input\reading-user-input\obj\Debug\reading-user-input.pdb
