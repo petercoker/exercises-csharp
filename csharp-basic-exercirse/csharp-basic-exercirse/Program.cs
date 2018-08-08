@@ -55,8 +55,14 @@ namespace csharp_basic_exercirse
             //the_division divide = new the_division();
             //divide.division();
 
-            the_sum add = new the_sum();
-            add.sum();
+            //the_sum add = new the_sum();
+            //add.sum();
+
+            //positive_and_negative posAndNeg = new positive_and_negative();
+            //posAndNeg.PositivAndNegative();
+
+            multiply_if_not_zero multi = new multiply_if_not_zero();
+            multi.multi();
 
 
 
