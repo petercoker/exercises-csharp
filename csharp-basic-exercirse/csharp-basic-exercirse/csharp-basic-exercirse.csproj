@@ -48,10 +48,12 @@
     <Compile Include="basic\calculate-remainder-of-division.cs" />
     <Compile Include="basic\comment.cs" />
     <Compile Include="basic\conversion.cs" />
+    <Compile Include="basic\divide-if-not-zero.cs" />
     <Compile Include="basic\draw-a-rectangle-1.cs" />
     <Compile Include="basic\equivalent-operations.cs" />
     <Compile Include="basic\formats-and-lines.cs" />
     <Compile Include="basic\formats.cs" />
+    <Compile Include="basic\greatest-of-three-numbers.cs" />
     <Compile Include="basic\hello-world.cs" />
     <Compile Include="basic\multiple-operations.cs" />
     <Compile Include="basic\multiplication-table.cs" />

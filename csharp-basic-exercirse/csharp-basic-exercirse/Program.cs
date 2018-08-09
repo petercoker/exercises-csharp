@@ -61,8 +61,15 @@ namespace csharp_basic_exercirse
             //positive_and_negative posAndNeg = new positive_and_negative();
             //posAndNeg.PositivAndNegative();
 
-            multiply_if_not_zero multi = new multiply_if_not_zero();
-            multi.multi();
+            //multiply_if_not_zero multi = new multiply_if_not_zero();
+            //multi.multi();
+
+            //divide_if_not_zero ifDivide = new divide_if_not_zero();
+            //ifDivide.divideif();
+
+            greatest_of_three_numbers great = new greatest_of_three_numbers();
+            great.greatestNumber();
+
 
 
 
