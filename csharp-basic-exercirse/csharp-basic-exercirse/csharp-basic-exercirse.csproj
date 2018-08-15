@@ -61,8 +61,11 @@
     <Compile Include="basic\multiply-using-variables.cs" />
     <Compile Include="basic\positive_and_negative.cs" />
     <Compile Include="basic\reading-user-input.cs" />
+    <Compile Include="basic\repeat-until-0-do-while .cs" />
+    <Compile Include="basic\repeat-until-0.cs" />
     <Compile Include="basic\the-division.cs" />
     <Compile Include="basic\the-sum.cs" />
+    <Compile Include="basic\while+count.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -67,12 +67,17 @@ namespace csharp_basic_exercirse
             //divide_if_not_zero ifDivide = new divide_if_not_zero();
             //ifDivide.divideif();
 
-            greatest_of_three_numbers great = new greatest_of_three_numbers();
-            great.greatestNumber();
+            //greatest_of_three_numbers great = new greatest_of_three_numbers();
+            //great.greatestNumber();
 
+            //repeat_until_0 repeat = new repeat_until_0();
+            //repeat.repeat();
 
+            //repeat repeats = new repeat();
+            //repeats.repeats();
 
-
+            while_count counts = new while_count();
+            counts.count();
 
 
 
