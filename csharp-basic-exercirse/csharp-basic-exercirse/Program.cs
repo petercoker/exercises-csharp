@@ -76,10 +76,17 @@ namespace csharp_basic_exercirse
             //repeat repeats = new repeat();
             //repeats.repeats();
 
-            while_count counts = new while_count();
-            counts.count();
+            //while_count counts = new while_count();
+            //counts.count();
 
+            //times_table timesTable = new times_table();
+            //timesTable.times();
 
+            //odd_numbers_descending oddNumbers = new odd_numbers_descending();
+            //oddNumbers.oddNumbers();
+
+            sum_numbers sum = new sum_numbers();
+            sum.sum();
 
 
 
