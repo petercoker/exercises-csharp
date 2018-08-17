@@ -21,7 +21,6 @@ namespace csharp_basic_exercirse.basic
 
             int number, sum = 0;
 
-
             while (true)
             {
                 Console.Write("Enter a number?: ");
