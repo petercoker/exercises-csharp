@@ -85,9 +85,17 @@ namespace csharp_basic_exercirse
             //odd_numbers_descending oddNumbers = new odd_numbers_descending();
             //oddNumbers.oddNumbers();
 
-            sum_numbers sum = new sum_numbers();
-            sum.sum();
+            //sum_numbers sum = new sum_numbers();
+            //sum.sum();
 
+            //two_negatives negative = new two_negatives();
+            //negative.twoNegative();
+
+            //one_or_two_negative oneNegative = new one_or_two_negative();
+            //oneNegative.oneTwoNegative();
+
+            multiples multi = new multiples();
+            multi.Multiple();
 
 
         }

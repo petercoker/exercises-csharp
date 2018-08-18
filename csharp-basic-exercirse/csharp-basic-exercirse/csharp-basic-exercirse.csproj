@@ -56,10 +56,12 @@
     <Compile Include="basic\greatest-of-three-numbers.cs" />
     <Compile Include="basic\hello-world.cs" />
     <Compile Include="basic\multiple-operations.cs" />
+    <Compile Include="basic\multiples.cs" />
     <Compile Include="basic\multiplication-table.cs" />
     <Compile Include="basic\multiply-if-not-zero.cs" />
     <Compile Include="basic\multiply-using-variables.cs" />
     <Compile Include="basic\odd-numbers-descending.cs" />
+    <Compile Include="basic\one-or-two-negative.cs" />
     <Compile Include="basic\positive_and_negative.cs" />
     <Compile Include="basic\reading-user-input.cs" />
     <Compile Include="basic\repeat-until-0-do-while .cs" />
@@ -68,6 +70,7 @@
     <Compile Include="basic\the-division.cs" />
     <Compile Include="basic\the-sum.cs" />
     <Compile Include="basic\times-table.cs" />
+    <Compile Include="basic\two-negatives.cs" />
     <Compile Include="basic\while+count.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
