@@ -94,8 +94,17 @@ namespace csharp_basic_exercirse
             //one_or_two_negative oneNegative = new one_or_two_negative();
             //oneNegative.oneTwoNegative();
 
-            multiples multi = new multiples();
-            multi.Multiple();
+            //multiples multi = new multiples();
+            //multi.Multiple();
+
+            //number_repeated numberRepeated = new number_repeated();
+            //numberRepeated.numberRepeat();
+
+            //password1 pass = new password1();
+            //pass.passwordOne();
+
+            password2 passTwo = new password2();
+            passTwo.passwordTwo();
 
 
         }
