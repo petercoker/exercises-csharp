@@ -55,6 +55,7 @@
     <Compile Include="basic\formats.cs" />
     <Compile Include="basic\greatest-of-three-numbers.cs" />
     <Compile Include="basic\hello-world.cs" />
+    <Compile Include="basic\many_divisions.cs" />
     <Compile Include="basic\multiple-operations.cs" />
     <Compile Include="basic\multiples.cs" />
     <Compile Include="basic\multiplication-table.cs" />

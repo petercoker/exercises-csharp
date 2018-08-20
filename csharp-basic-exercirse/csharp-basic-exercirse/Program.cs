@@ -103,8 +103,11 @@ namespace csharp_basic_exercirse
             //password1 pass = new password1();
             //pass.passwordOne();
 
-            password2 passTwo = new password2();
-            passTwo.passwordTwo();
+            //password2 passTwo = new password2();
+            //passTwo.passwordTwo();
+
+            many_divisions many = new many_divisions();
+            many.ManyDivisions();
 
 
         }
