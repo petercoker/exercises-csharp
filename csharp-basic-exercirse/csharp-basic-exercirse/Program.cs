@@ -106,8 +106,11 @@ namespace csharp_basic_exercirse
             //password2 passTwo = new password2();
             //passTwo.passwordTwo();
 
-            many_divisions many = new many_divisions();
-            many.ManyDivisions();
+            //many_divisions many = new many_divisions();
+            //many.ManyDivisions();
+
+            several_mutiplication_tables_do_while severalMutiplication = new several_mutiplication_tables_do_while();
+            severalMutiplication.mutiplicationTable();
 
 
         }
