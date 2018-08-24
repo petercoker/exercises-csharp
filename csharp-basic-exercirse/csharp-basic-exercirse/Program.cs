@@ -109,8 +109,11 @@ namespace csharp_basic_exercirse
             //many_divisions many = new many_divisions();
             //many.ManyDivisions();
 
-            several_mutiplication_tables_do_while severalMutiplication = new several_mutiplication_tables_do_while();
-            severalMutiplication.mutiplicationTable();
+            //several_mutiplication_tables_do_while severalMutiplication = new several_mutiplication_tables_do_while();
+            //severalMutiplication.mutiplicationTable();
+
+            square square = new square();
+            square.Square();
 
 
         }
